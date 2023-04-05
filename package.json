@@ -1,0 +1,25 @@
+{
+  "name": "search_flight_test",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielaMachado/search_flight.git"
+  },
+  "keywords": [
+    "GabrielaMachado"
+  ],
+  "author": "Gabriela Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielaMachado/search_flight/issues"
+  },
+  "homepage": "https://github.com/GabrielaMachado/search_flight#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
